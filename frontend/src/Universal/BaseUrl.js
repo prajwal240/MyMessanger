@@ -1,2 +1,2 @@
-const BaseUrl="https://mymessangerapi.onrender.com";
+const BaseUrl=process.env.URL;
 export default BaseUrl;
