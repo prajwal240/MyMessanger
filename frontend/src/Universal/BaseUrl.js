@@ -1,2 +1,2 @@
-const BaseUrl="http://localhost:8002";
+const BaseUrl="https://mymessangerapi.onrender.com";
 export default BaseUrl;
